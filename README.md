@@ -21,7 +21,7 @@ add packagename in Google Play Package Name box then add Class Name then add key
 
 #####FacebookManager.getInstance().getFacebookHashKey();
 
-call #####getFacebookHashKey method using FacebookManager class in activity onCreate 
+call getFacebookHashKey method using FacebookManager class in activity onCreate 
 then this method will print hashkey in logcate 
 
 2.To generate a hash of your release key, run the following command on Windows substituting your release key alias and the path to your keystore.

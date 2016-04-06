@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-b6004263351165b07ca14f8854a8c98198d2cb9c.jar" />
+    </item>
+    <item
+        jar="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\pre-dexed\debug\classes-ee92a0850f77b2434876035ababcb305714b1287.jar" />
+    </item>
+    <item
+        jar="C:\Users\moorthy\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-832008d02592be4e56e646dbe50303486d994eba.jar" />
+    </item>
+    <item
+        jar="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\pre-dexed\debug\classes-fd12debba55a6d3b3f8d09ad653e42a3847d8a99.jar" />
+    </item>
+    <item
+        jar="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\pre-dexed\debug\classes-a4febc779e5f74b0859ae02a43e1b735f284fee2.jar" />
+    </item>
+    <item
+        jar="C:\Users\moorthy\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-2cf0a5e45ded5e6a757e6855059d450dfe162f31.jar" />
+    </item>
+    <item
+        jar="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="D:\Rekroot Project Workspace\DoodleBlue\WorkingSample\My samples\FacebookIntegration\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-41fd5164b49c24e422ab71eb16e44e6b89cf8e49.jar" />
+    </item>
+
+</items>
